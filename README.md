@@ -1,6 +1,8 @@
 # Advent of Code 2021
 My Python solutions to AOC 2021 problems.
 
+Maybe a mess.
+
 ## In format:
 ```py
 '''Advent of code, day X: TITLE'''
