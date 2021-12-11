@@ -1,7 +1,7 @@
 # Advent of Code 2021
 My Python solutions to AOC 2021 problems.
 
-Maybe a mess.
+Maybe a mess. Not really competitive. I have main() though.
 
 ## In format:
 ```py
