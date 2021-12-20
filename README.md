@@ -1,7 +1,10 @@
 # Advent of Code 2021
-My Python solutions to AOC 2021 problems.
+My Python solutions to AoC 2021 problems.
 
 Maybe a mess. Not really competitive. I have main() though.
+
+My own personal modules `termbars` and `my_helper` are present in some of the solutions. 
+Those are found in the [PythonProjects/misc/modules/](https://github.com/AkzidenzGrotesk-py/PythonProjects/tree/main/misc/modules) folder. I will most likely add more utility functions for next year.
 
 ## In format:
 ```py
