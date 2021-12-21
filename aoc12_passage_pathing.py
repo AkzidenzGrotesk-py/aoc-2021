@@ -5,7 +5,7 @@ def bfs_r1(temp_csystem, current, route):
     - can visit caves with UPPERCASE names any amount of time,
     - can visit caves with lowercase names one time.'''
     if current == "end":
-        return route?!?jedi=0, ?!?  () ?!?jedi?!?
+        return route
     if current.islower():
         temp_csystem[current][1] = True
 
